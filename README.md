@@ -11,4 +11,5 @@ This is my second project.
 - Add a pitch transpose funtion
 - Add a better music speed control funtion.
 
-![](https://i.imgur.com/yQEuuut.jpg)
+![](https://i.imgur.com/5CqpQxp.jpg)
+
