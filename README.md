@@ -7,7 +7,7 @@ This is my second project.
    
 (I'm still adding some funtions, but it works fine)
 
-# Need help on: 
+### Need help on: 
 - Add a pitch transpose funtion
 - Add a better music speed control funtion.
 
